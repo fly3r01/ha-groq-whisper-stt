@@ -15,7 +15,7 @@ Before configuring the integration you must first install the `custom_integratio
 
 ### HACS ✨
 
-1. **Add** ➕ [this repository](https://my.home-assistant.io/redirect/hacs_repository/?owner=fabio-garavini&repository=ha-groq-whisper-stt-api&category=integration) to your HACS repositories:
+1. **Add** ➕ [this repository](https://my.home-assistant.io/redirect/hacs_repository/?owner=sriharshaguthikonda&repository=ha-groq-whisper-stt-api&category=integration) to your HACS repositories:
 
     - **Click** on this link ⤵️
 
